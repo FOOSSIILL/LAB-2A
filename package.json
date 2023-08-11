@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "birthday-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "is-hex-color-code": "^1.0.0"
+  }
+}
